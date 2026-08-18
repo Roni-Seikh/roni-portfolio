@@ -1,0 +1,39 @@
+# Roni Seikh
+
+> Full Stack Developer & AI/ML Enthusiast based in Kolkata, West Bengal, India.
+> B.Tech Computer Science & Engineering student at Brainware University (2023–2027, CGPA 8.65/10).
+
+## Summary
+
+Roni Seikh builds full-stack web applications and AI/ML-integrated tools. Core stack: React, Next.js, Node.js, Flask, Python, MySQL, MongoDB, PostgreSQL. Applied AI/ML work includes NLP, machine learning models (scikit-learn), and data analytics/visualization (Pandas, NumPy, Power BI).
+
+## Contact
+
+- Email: roni.seikh.softwareeng@gmail.com
+- GitHub: https://github.com/Roni-Seikh
+- LinkedIn: https://www.linkedin.com/in/roniseikh
+- Portfolio: https://roniseikh.vercel.app/
+- Resume (PDF): https://roniseikh.vercel.app/resume.pdf
+
+## Projects
+
+- **Copilot Mini** — AI-powered coding assistant (Next.js, TypeScript, Prisma, PostgreSQL, GitHub API) with 10 AI code-intelligence tools and automated AI pull-request reviews.
+- **AI Resume Interview Mock Portal** — Full-stack AI interview platform (React, Flask, MySQL, Claude AI) analyzing resumes and generating personalized interview questions with webcam anti-cheat monitoring.
+- **Water Pollutants Predictor** — Machine learning web app (Python, Streamlit, Scikit-learn) predicting six water-quality parameters using a Random Forest + Multioutput Regressor model.
+
+## Experience
+
+- Web Development Intern, Uptoskills (Aug 2025 – Nov 2025)
+- Web Developer Intern, Codevocado (Apr 2025 – Jul 2025)
+- Web Development Intern, VaultofCodes (Mar 2025 – Apr 2025)
+- AI Intern, TechSaksham / Edunet Foundation (Feb 2025 – Mar 2025)
+
+## Certifications
+
+Power BI for Business Applications (Microsoft Elevate/AICTE) · AI: Transformative Learning (TechSaksham) · AI & Data Analytics — Green Skills (Skills4Future) · Conversational Data Analysis with LLMs (AICTE & VOIS) · AI/ML Specialist (ISRO/IIRS) · Information Security & Cyber Security (ISEA Phase III) · Full-Stack Web Development (STP Computer Education) · AI/ML Certifications (IBM SkillsBuild)
+
+## Achievements
+
+- Global AI Hackathon Finalist
+- Tech Lead, Creatiq Media
+- Organizer & Host, TechSpark Summit 2026

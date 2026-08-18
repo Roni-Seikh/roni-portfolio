@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+
+# Explicitly allow known AI/LLM crawlers so tools like ChatGPT (browsing),
+# Perplexity, and Claude can index this page.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://roniseikh.vercel.app/sitemap.xml
