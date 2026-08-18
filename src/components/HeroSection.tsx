@@ -124,8 +124,9 @@ export const HeroSection: React.FC = () => {
         </video>
 
         {/* Dark overlay so text and the terminal stay readable */}
-        <div className="absolute inset-0 bg-black/55" />
-        <div className="absolute inset-0 bg-gradient-to-t from-black via-black/20 to-black/40" />
+        {/* Light overlay — just enough for text contrast, video stays visible */}
+        <div className="absolute inset-0 bg-black/15" />
+        <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-black/10" />     
       </div>
 
       {/* Content layer */}
